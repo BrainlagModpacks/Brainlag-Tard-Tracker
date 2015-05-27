@@ -4,6 +4,7 @@
 Tracker pour le modpack Brainlag^Tard.
 
 Veuillez suivre ces quelques simples règles avant/pendant que vous postez:
+
 ##### En général:
 - Vérifiez que votre problème/suggestion n'a pas déjà été reportée;
 - Restez poli et respectueux, ne vous attendez pas à ce que l'on vous réponde immédiatement;
@@ -13,6 +14,7 @@ Veuillez suivre ces quelques simples règles avant/pendant que vous postez:
     [Bug] en cas de bug qui ne cause pas de crash
     [Mod] si vous souhaitez proposer un mod à l'ajout, voire au retrait
     [Question] en cas de question, demande particulière
+
 ##### Reporter un bug/crash/erreur/anomalie:
 - Vérifiez que vous utilisez bien la dernière version du pack;
 - Vérifiez que vous utilisez une version Java adéquate (7 64bit ou 8 64bit);
@@ -20,7 +22,9 @@ Veuillez suivre ces quelques simples règles avant/pendant que vous postez:
 - Mentionnez si le cas s'est produit sur le client ou sur serveur;
 - Mentionnez si vous utilisez des mods/plugins supplémentaires avec le pack, surtout si vous utilisez Optifine ou FastCraft;
 - Expliquez comment le cas s'est produit, comment le reproduire;
+
 ##### Proposer un mod:
+
 ##### Poser une question:
 
 
