@@ -1,5 +1,4 @@
 # Brainlag^Tard Official Tracker
-===============
 Languages: FR EN
 ===============
 ###FR (EN below)
