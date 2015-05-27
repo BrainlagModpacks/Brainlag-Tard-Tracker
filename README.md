@@ -1,6 +1,6 @@
 # Brainlag^Tard Tracker
 
-####FR
+###FR
 Tracker pour le modpack Brainlag^Tard.
 
 Veuillez suivre ces quelques simples règles avant/pendant que vous postez:
@@ -32,7 +32,7 @@ Préfixe  | Cas
 ##### Poser une question:
 
 
-####EN
+###EN
 Tracker for the Brainlag^Tard Modpack.
 
 PLease follow these simple rules before/while posting:
