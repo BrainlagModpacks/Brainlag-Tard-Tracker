@@ -10,10 +10,10 @@ Veuillez suivre ces quelques simples règles avant/pendant que vous postez:
 - Restez poli et respectueux, ne vous attendez pas à ce que l'on vous réponde immédiatement;
 - Soyez aussi clair et explicite que possible. Nous ne pourrons rien faire si nous ne vous comprenons pas;
 - Veuillez écrire clairement le sujet de votre cas, ainsi que sa catégorie:
-    [Crash] en cas de crash serveur ou client
-    [Bug] en cas de bug qui ne cause pas de crash
-    [Mod] si vous souhaitez proposer un mod à l'ajout, voire au retrait
-    [Question] en cas de question, demande particulière
+[Crash] en cas de crash serveur ou client
+[Bug] en cas de bug qui ne cause pas de crash
+[Mod] si vous souhaitez proposer un mod à l'ajout, voire au retrait
+[Question] en cas de question, demande particulière
 
 ##### Reporter un bug/crash/erreur/anomalie:
 - Vérifiez que vous utilisez bien la dernière version du pack;
