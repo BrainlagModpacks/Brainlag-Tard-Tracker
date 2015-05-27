@@ -34,6 +34,7 @@ Préfixe  | Cas
 ##### Poser une question:
 - Ne demandez pas quand le pack sera mis à jour, nous ne vous répondront probablement pas
 
+
 ===============
 ###EN
 Tracker for the Brainlag^Tard Modpack.
@@ -45,3 +46,10 @@ Please follow these simple rules before/while posting:
 - Be polite and nice, don't expect your case being responded/resolved in the minute;
 - Be as clear and explicit as possible. We can't do anything if we don't understand you;
 - In the title, write the subject of your case and it's category:
+
+Prefix  | Case
+------------- | -------------
+[Crash]  | server or client crash
+[Bug]  | bug or error (which not caused crash)
+[Mod]  | for mod proposing (addition or deletion)
+[Question]  | question, special request
