@@ -53,3 +53,19 @@ Prefix  | Case
 [Bug]  | bug or error (which not caused crash)
 [Mod]  | for mod proposing (addition or deletion)
 [Question]  | question, special request
+
+##### Report bug/crash/error/anomalia:
+- Check that you're using the last version of the pack;
+- Check that you usa an adequate Jave version (7 64bit or 8 64bit);
+- Post your logs when you have them, or eventualy images. Use copy-provider, like http://pastebin.com/ ;
+- Mention if the case happened on client or server;
+- Mention if you use additional mods/plugins with the pack, especially Optifine or FastCraft;
+- Explain how you encountered the case, how to reproduce it;
+
+##### Suggest a mod:
+- Check that authors permit use in a modpack;
+- Present the mod with a link to the official site/page;
+- Explain why you would have it added;
+
+##### Poser une question:
+- Don't ask when the pack will be updated, we'll most likely not respond
