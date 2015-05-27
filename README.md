@@ -6,7 +6,7 @@ Tracker pour le modpack Brainlag^Tard.
 Veuillez suivre ces quelques simples règles avant/pendant que vous postez:
 
 ##### En général:
-- Vérifiez que votre problème/suggestion n'a pas déjà été reportée;
+- Vérifiez que votre cas n'a pas déjà été reporté;
 - Restez poli et respectueux, ne vous attendez pas à ce que l'on vous réponde immédiatement;
 - Soyez aussi clair et explicite que possible. Nous ne pourrons rien faire si nous ne vous comprenons pas;
 - Veuillez écrire clairement dans le titre le sujet ainsi que sa catégorie:
@@ -38,4 +38,10 @@ Préfixe  | Cas
 ###EN
 Tracker for the Brainlag^Tard Modpack.
 
-PLease follow these simple rules before/while posting:
+Please follow these simple rules before/while posting:
+
+##### General:
+- Check if your case wasn't reported before;
+- Be polite and nice, don't expect your case being responded/resolved in the minute;
+- Be as clear and explicit as possible. We can't do anything if we don't understand you;
+- In the title, write the subject of your case and it's category:
