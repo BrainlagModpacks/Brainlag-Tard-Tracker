@@ -1,7 +1,7 @@
 # Brainlag^Tard Official Tracker
 ######Languages: FR EN
 ===============
-###FR (EN below)
+###FR
 Tracker pour le modpack Brainlag^Tard.
 
 Veuillez suivre ces quelques simples règles avant/pendant que vous postez:
@@ -35,7 +35,7 @@ Préfixe  | Cas
 - Ne demandez pas quand le pack sera mis à jour, nous ne vous répondront probablement pas
 
 ===============
-###EN (FR au-dessus)
+###EN
 Tracker for the Brainlag^Tard Modpack.
 
 PLease follow these simple rules before/while posting:
