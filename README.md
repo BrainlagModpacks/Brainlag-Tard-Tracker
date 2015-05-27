@@ -14,7 +14,7 @@ Veuillez suivre ces quelques simples règles avant/pendant que vous postez:
 Préfixe  | Cas
 ------------- | -------------
 [Crash]  | crash serveur ou client
-[Bug]  | bug qui ne cause pas de crash
+[Bug]  | bug ou erreur (qui ne cause pas de crash)
 [Mod]  | si vous souhaitez proposer un mod à l'ajout, voire au retrait
 [Question]  | question, demande particulière
 
