@@ -67,5 +67,5 @@ Prefix  | Case
 - Present the mod with a link to the official site/page;
 - Explain why you would have it added;
 
-##### Poser une question:
+##### Ask something:
 - Don't ask when the pack will be updated, we'll most likely not respond
